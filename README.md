@@ -1,6 +1,6 @@
 # Lunch_Order
 
-Lab1 Assignment done at SAIT
+Lab1 Assignment
 
 Visual Studio 2019, C# Windows Application in ASP.NET 5.0
 
